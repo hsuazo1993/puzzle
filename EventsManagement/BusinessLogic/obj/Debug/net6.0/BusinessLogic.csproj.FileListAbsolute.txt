@@ -1,0 +1,17 @@
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\bin\Debug\net6.0\DTOs.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\bin\Debug\net6.0\DTOs.pdb
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\bin\Debug\net6.0\DTOs.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\bin\Debug\net6.0\DTOs.pdb
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\phara\Desktop\Git\Puzzle – DotNET Backend Coding Challenge\EventsManagement\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
