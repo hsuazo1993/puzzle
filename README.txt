@@ -16,7 +16,7 @@ Then when your run the application, the new migration will be applied automatica
 
 ## Running the Application
 
-1. Clone the repository to your local machine using `git clone https://github.com/<username>/EventsManagement.git`
+1. Clone the repository to your local machine using `git clone https://github.com/hsuazo1993/puzzle.git`
 2. Navigate to the root directory of the project using the command line.
 3. Run `dotnet build` to build the application.
 4. Update the connection string in the `appsettings.json` file with your own connection string.
